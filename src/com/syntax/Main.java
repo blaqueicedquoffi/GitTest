@@ -34,8 +34,7 @@ class Main {
         multiplyMatrix(matrixA,matrixB);
         long end2 = System.currentTimeMillis();
         System.out.println(end2-start2);
-        System.out.println("new changes are being made to" +
-                "this code in feature branch");
+        System.out.println("this feature will be committed to main branch");
 
     }
 }
